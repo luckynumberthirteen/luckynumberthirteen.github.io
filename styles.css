@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+  color: #ccc;
+  background-color: #444;
+  font-family: 'Perpetua', sans-serif;
+  font-size: 25px;
+}
+
+.container {
+  border-color: #6A6C6E;
+  padding: 10px;
+  margin: 10px auto;
+  overflow: auto;
+  max-width: 900px;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+
+
+.palette-container {
+  color: #000;
+  margin: 10px auto;
+  width: 90%;
+  border: solid;
+  border-color: #6A6C6E;
+}
+
+
+.color-panel {
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+  min-height: 100px;
+}
+
+.unknowntealblue {
+  background-color: #264653;
+  color: #fff;
+}
+
+.unknownseagreen {
+  background-color: #2a9d8f;
+  color: #fff;
+}
+
+.goldensand {
+  background-color: #e9c46a;
+}
+
+.sandybrown {
+  background-color: #f4a261;
+}
+
+.burntsienna {
+  background-color: #e76f51;
+}
+
+.black {
+  background-color: #000;
+  color: #fff;
+}
+
+.midnightexpress {
+  background-color: #14213d;
+  color: #fff;
+}
+
+.darktangerine {
+  background-color: #fca311;
+}
+
+.whispergray {
+  background-color: #e5e5e5;
+}
+
+.white {
+  background-color: #fff;
+}
+
+.deeppink {
+  background-color: #f72585;
+  color: #fff;
+}
+
+.purpleheart {
+  background-color: #7209b7;
+  color: #fff;
+}
+
+.persianindigo {
+  background-color: #3a0ca3;
+  color: #fff;
+}
+
+.royalblue {
+  background-color: #4361ee;
+  color: #fff;
+}
+
+.malibu {
+  background-color: #4cc9f0;
+}
+
+.darkpink {
+  background-color: #ef476f;
+  color: #fff;
+}
+
+.dandelion {
+  background-color: #ffd166;
+}
+
+.caribbeangreen {
+  background-color: #06d6a0;
+  color: #fff;
+}
+
+.bondiblue {
+  background-color: #118ab2;
+  color: #fff;
+}
+
+.sherpablue {
+  background-color: #073b4c;
+  color: #fff;
+}
+
+.mardigras {
+  background-color: #3c1642;
+  color: #fff;
+}
+
+.bluelagoon {
+  background-color: #086375;
+  color: #fff;
+}
+
+.shamrock {
+  background-color: #1dd3b0;
+}
+
+.greenyellow {
+  background-color: #affc41;
+}
+
+.madang {
+  background-color: #b2ff9e;
+}
+
+.floatleft {
+  float: left;
+  text-align: center;
+}
+
+.floatright {
+  float: right;
+  text-align: center;
+}
+
+.font-plate {
+  height: 300px;
+  width: 45%;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.perpetua {
+  font-family: perpetua;
+  line-height: 1.5;
+}
+
+.major-mono-display {
+  font-family: 'Major Mono Display', monospace;
+}
+
+.dancing-script {
+  font-family: 'Dancing Script', cursive;
+}
+
+.cabin {
+  font-family: 'Cabin', sans-serif;
+}
+
+.inconsolata {
+  font-family: 'Inconsolata', monospace;
+}
+
+.nunito {
+  font-family: 'Nunito', sans-serif;
+}
+
+.nunito-sans {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.vt323 {
+  font-family: 'VT323', monospace;
+}
+
+.space-mono {
+  font-family: 'Space Mono', monospace;
+}
+
+.text-plate {
+
+}
+
+
+
+
+h1 {
+  text-align: center;
+  font-family: 'Space Mono';
+  //font-weight: bold;
+}
